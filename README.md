@@ -19,5 +19,5 @@ Solutions to Steam game "TIS-100"
     Instruction count statistic: 20
 ### #22280 SIGNAL MULTIPLEXER
     Cycle count statistics: 204
-    Node count statistics: 6
-    Instruction count statistic: 17
+    Node count statistics: 9
+    Instruction count statistic: 46
